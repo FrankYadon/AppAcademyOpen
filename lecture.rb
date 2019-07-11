@@ -1,4 +1,11 @@
-hash = {first_name: "Frank", last_name: "Yadon" }
-p hash
-hash[:first_name]="Steve"
-p hash
+puts "Enter 'yes' or 'no'"
+
+response = gets.chomp
+
+if response == "yes"
+  puts "yup!"
+elsif response == "no"
+  puts "nah!"
+else
+  puts "I'm sorry, my responses are limited."
+end
