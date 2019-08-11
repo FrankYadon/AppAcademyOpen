@@ -2,6 +2,7 @@
 Files from my attempt at completing App Academy bootcamp while working full-time.
 
 ## Week 0 (Software Engineering Foundations)
+- [Prep-work](/week0/)
 
 ## Week 1 (Ruby)
 - Day I - Enumerables and Debugging
